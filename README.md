@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi!👋
+
+I'm Alessio Paolazzi, currently attending the Bachelor Degree in Computer Science at the University of Trento.
+Here are some statistics about me in GitHub:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AlessioTW&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessioTW&langs_count=5&theme=tokyonight)]()
+
 
 
 
